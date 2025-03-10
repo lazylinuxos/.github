@@ -2,7 +2,7 @@
 
 ![LazyLinux Logo](https://raw.githubusercontent.com/lazylinuxos/lazylinuxos.github.io/refs/heads/main/assets/img/lazylinux.png)
 
-LazyLinux is a pre-configured Linux distribution based on [Void Linux](https://voidlinux.org/) with the XFCE desktop environment and kernel version **6.13.2**. It is designed to provide a stable and user-friendly experience, with a vast selection of preinstalled software for various purposes.
+LazyLinux is a pre-configured Linux distribution based on [Void Linux](https://voidlinux.org/) with the XFCE desktop environment and **latest** kernel version. It is designed to provide a stable and user-friendly experience, with a vast selection of preinstalled software for various purposes.
 
 ## Preinstalled Software
 
@@ -40,7 +40,7 @@ LazyLinux is a pre-configured Linux distribution based on [Void Linux](https://v
 - [OBS Studio](https://obsproject.com/)
 
 ### Development
-- [VSCode](https://code.visualstudio.com/)
+- [Zed](https://zed.dev/)
 - [Helix](https://helix-editor.com/)
 - [DBeaver](https://dbeaver.io/)
 - [LazyGit](https://github.com/jesseduffield/lazygit)
@@ -64,12 +64,15 @@ LazyLinux is a pre-configured Linux distribution based on [Void Linux](https://v
 - [Virt-Manager](https://virt-manager.org/)
 
 ### Utilities
+- [Ghostty](https://ghostty.org/)
 - [Cortile](https://github.com/jmquigs/cortile)
 - [KeePassXC](https://keepassxc.org/)
 - [Rofi](https://github.com/davatorium/rofi)
+- [Zsh](https://www.zsh.org/)
 - [Fish Shell](https://fishshell.com/)
 - [Zellij](https://zellij.dev/)
 - [Yazi](https://github.com/sxyazi/yazi)
+- [termscp](https://termscp.veeso.dev/)
 - [Clipboard](https://github.com/Slackadays/Clipboard)
 - [FSearch](https://github.com/cboxdoerfer/fsearch)
 - [Syncthing](https://syncthing.net/)
